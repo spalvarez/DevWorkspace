@@ -1,0 +1,14 @@
+{
+  "name": "Node1",
+  "version": "0.0.0",
+  "description": "Node1",
+  "main": "app.js",
+  "author": {
+    "name": "Sean",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "underscore": "^1.8.3"
+  }
+}
